@@ -24,3 +24,6 @@ Dangerous*](https://www.learnenough.com/git-tutorial)』で使うサンプルサ
 > 『Learn Enough™ Git to Be Dangerous』でGitを学習すれば、文字どおり「デンジャラス」なまでにGitを
 使いこなせるようになります。プロジェクトの変更履歴を追いかけることも、データのバックアップも、
 成果を一般公開することも、他のプログラマーたちとGitで共同作業することも自由自在です。
+
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
